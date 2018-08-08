@@ -1,4 +1,4 @@
-# IMC-JAVA
+# CICLO-JAVA
 
 _Ejemplo sencillo de ciclos repetitivos con JAVA para SENA , calcula el sueldo con una tasa anual segun los años que defina el usuario_
 
